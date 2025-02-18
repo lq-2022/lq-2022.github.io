@@ -9,8 +9,6 @@ The following is a preliminary program (precise timings are subject to change).
 
 Friday, September 23	
 
-{{< rawhtml >}} 
-
 <table class="mytable">
 <tr> <td> 10:30 </td> <td> 10:40	</td> <td> Organizers' Introduction</td></tr>
 <tr> <td> 10:40	</td> <td> 11:25	</td> <td> Keynote talk: Marco Saerens (Université Catholique de Louvain): <a href="slides/quantificationCalibrationPresentation_Saerens_ECML2022.pdf">The old EM algorithm for quantification learning: Some past and recent results</a>	(Chair: Alejandro Moreo)</td></tr>
@@ -21,5 +19,3 @@ Friday, September 23
 <tr> <td> 12:25	</td> <td> 12:45	</td> <td> <a href="proceedings/Bunse2022b.pdf">On Multi-Class Extensions of Adjusted Classify and Count</a>, by Mirko Bunse (University of Dortmund, DE)	</td></tr>
 <tr> <td> 12:45	</td> <td> 13:30	</td> <td> Open discussion	(Chair: Juan José del Coz)</td></tr>
 </table>
-
-{{< /rawhtml >}}
